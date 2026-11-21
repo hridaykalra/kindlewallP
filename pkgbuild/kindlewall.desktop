@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Kindlewall
+Comment=Frame wallpapers for your Kindle
+Exec=kindlewall
+Icon=kindlewall
+Type=Application
+Categories=Graphics;Utility;

@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd "$(dirname "$0")/.."
+qmake6 kindlewall.pro -o Makefile
+make -j"$(nproc)"
